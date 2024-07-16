@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249580350729",
+    "project_id": "tanamfirebase-3c545",
+    "storage_bucket": "tanamfirebase-3c545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249580350729:android:34330a79b16bc90f8037d8",
+        "android_client_info": {
+          "package_name": "com.example.tanam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdUJSZxmTukY7BQo5iFPZ5TY15-egSGwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
